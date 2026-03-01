@@ -16,10 +16,10 @@
 本アプリでは、広告配信のために Google AdMob を利用しています。  
 Google AdMob が取得する情報およびその利用目的については、以下をご確認ください。  
 
-・Google プライバシーポリシー  
- https://policies.google.com/privacy?hl=ja  
-・Google 広告に関するポリシー  
- https://policies.google.com/technologies/ads?hl=ja  
+ ・Google プライバシーポリシー  
+  https://policies.google.com/privacy?hl=ja  
+ ・Google 広告に関するポリシー  
+  https://policies.google.com/technologies/ads?hl=ja  
 
 4. 広告について  
 本アプリでは、第三者配信による広告が表示されます。  
